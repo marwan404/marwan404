@@ -1,0 +1,30 @@
+body{
+  background-image: linear-gradient(to right, orange,yellow,green);
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 70%;
+    height: 50%;
+    color: #a6eeb7ef;
+    background-color: darkred;
+
+  }
+  td , tr{
+ 
+  padding: 30px;
+  text-align: center;
+  border: 1px solid black;
+
+}
+th{
+  background-color: rgb(180, 55, 55);
+  padding: 30px;
+  text-align: center;
+  border: 1px solid black;
+  border-style: none;
+}
+.td1{
+  background-color: rgb(180, 55, 55);
+}

@@ -1,0 +1,100 @@
+body{
+    margin: 20px 10px 20px 10px;
+    background-image: url(bd.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-image: linear-gradient(to right, red,orange,yellow);
+}
+.a2{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    color: cornsilk;
+    text-align: center;
+
+}
+p{
+    margin: 20px 10px 20px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: cornsilk;
+    padding-right: 222px; 
+}
+img{
+    border-radius: 100em;
+    size: 5%;
+}
+.list{
+list-style-type:none ;
+color: black;
+font-size: 30px;
+display:inline;
+padding-left:100px;
+}
+.list li{
+display: inline-block;
+margin:90px;
+text-align: center;
+width: 70px;
+height: 70px;
+}
+.div1{
+    font-size:large;
+    color: cornsilk;
+}
+.home:hover{
+    background-color: #d2d286;
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+    padding: 20px;
+    border-radius: 25px;  
+}
+.home{
+    background:none;
+    border:none;
+    cursor: pointer;
+    color: black;
+    font-size: large;
+}
+.log-in{
+    background:none;
+    border:none;
+    cursor: pointer;
+    color: black;
+    font-size: large;
+    background-color: #40408d;
+    border-radius: 0px; 
+    outline-color: currentColor;
+    outline-style: dashed;
+}
+.log-in:hover{
+    background-image: none;
+    width: 150%;
+    height: 100%;
+    text-shadow: #e85656;
+}
+.boi:hover{
+    background-color: #d2d286;
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+    padding: 20px;
+    border-radius: 25px;  
+}
+.boi{
+    background:none;
+    border:none;
+    cursor: pointer;
+    color: black;
+    font-size: large;
+    margin:90px;
+    padding: 20px;
+    text-align: center;
+}
+.gt{
+    width: 33%;
+    height:50%;
+}
+d3{
+    text-align: center;
+}
